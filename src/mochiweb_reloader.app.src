@@ -1,0 +1,8 @@
+{application, mochiweb_reloader, [
+	{description, "MochiMedia Reloader"},
+	{vsn, "2.3.1"},
+	{modules, []},
+	{registered, []},
+	{env, []},
+	{applications, [kernel, stdlib]}
+]}.
